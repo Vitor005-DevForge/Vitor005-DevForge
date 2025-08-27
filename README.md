@@ -1,16 +1,18 @@
-## Hi there 👋
+### Olá! Eu sou o Vitor Hugo 👋
 
-<!--
-**Vitor005-DevForge/Vitor005-DevForge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5543996819065)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vitor.4477)
+[![instagram](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](milto:vitor.troian005@gmail.com)
+ 
+ ![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitor005-Devforge&show_icons=true&theme=dracula)
 
-Here are some ideas to get you started:
+ ## Tecnologias que eu uso no meu dia 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div style="display: inline_block"><br/>
+  <img align="center" alt="html5" src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white>
+  <img align="center" alt="html5" src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black>
+<img align="center" alt="html5" src=https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white
+</div><br/>
+</div><br/>
+
+Apaixonado por tecnologia, educação e por mudara vida das pessoas através da programação.
